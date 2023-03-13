@@ -1,5 +1,6 @@
 # ExamPortal_Backend
-This is the Backend Project which is used for giving quizzes. 
+This repo contains the backend code of Examportal peojwct
+Project description : Examportal is a website which allows a user to give quizzes on various categories such as programming languages etc. After submitting the quiz, the user can see their makrs, attempted question, number of correct answers. He can also generate a pdf report for his score.
 
 Tech used:
 1. Springboot
