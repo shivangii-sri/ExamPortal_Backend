@@ -6,4 +6,5 @@ Tech used:
 1. Springboot
 2. Java
 3. MySQL Database
-4. IDE : Intelij IDEA Community Version
+4. Tomcat Server
+5. IDE : Intelij IDEA Community Version
